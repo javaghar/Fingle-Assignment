@@ -1,2 +1,1 @@
-# Fingle-Assignment
-Content recommendation system
+# Content recommendation system
